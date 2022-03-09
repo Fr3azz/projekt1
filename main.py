@@ -1,16 +1,23 @@
-# This is a sample Python script.
+string1 = "lancuch"
+string2 = "lancuch2"
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+int1 = 1
+int2 = 2
 
+float1 = 1.2
+float2 = 2.1
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+complex1 = 1 + 1j
+complex2 = 2 + 2j
 
+print(string1)
+print(string2)
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+print(int1)
+print(int2)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print(float1)
+print(float2)
+
+print(complex1)
+print(complex2)
